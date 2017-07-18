@@ -5,3 +5,7 @@
 <p><a href="https://www.youtube.com/watch?v=IFS0kPBu7CQ">Bootstrap Image Carousel Code-Along</a>.</p>
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/bootstrap-image-carousel-code-along' title='Bootstrap Image Carousel Code-Along'>Bootstrap Image Carousel Code-Along</a> on Learn.co and start learning to code for free.</p>
+
+
+work is completed here:
+https://github.com/eland05/exceptional-realty-bootstrapped
